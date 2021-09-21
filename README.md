@@ -8,4 +8,4 @@ Node.JS developer from Yaroslavl, Russia.
 
 - 🔭 I’m currently working on KitsuneVPN (check it out: kitsune.su)
 - 🌱 I’m currently learning Golang, Swift, SMM.
-- 📫 How to reach me: pacmard@kitsune.su
+- 📫 How to reach me: pacmard@kitsune.su . **Job offers with $3000 salary min.**
